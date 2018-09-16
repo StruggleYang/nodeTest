@@ -1,6 +1,6 @@
 {
-  "name": "node-test",
-  "version": "1.0.0",
+  "name": "nodetest-001",
+  "version": "1.0.2",
   "description": "",
   "main": "main.js",
   "scripts": {
